@@ -1214,39 +1214,39 @@ nav {
 
 /* Real thumbnail images */
 .morning-meditation {
-	background-image: url('images/zoom\ meet.jpeg');
+	background-image: url('./zoom\ meet.jpeg');
 }
 
 .stress-relief {
-	background-image: url('images/in\ person\ meet.jpeg');
+	background-image: url('./in\ person\ meet.jpeg');
 }
 
 .sleep-meditation {
-	background-image: url('images/events.jpeg');
+	background-image: url('./events.jpeg');
 }
 
 .mbsr-course {
-	background-image: url('images/luanch.jpeg');
+	background-image: url('./luanch.jpeg');
 }
 
 .leadership-course {
-	background-image: url('images/mindful\ leadership.jpeg');
+	background-image: url('./mindful\ leadership.jpeg');
 }
 
 .beginner-course {
-	background-image: url('images/progress\ journey.jpeg');
+	background-image: url('./progress\ journey.jpeg');
 }
 
 .timer-tool {
-	background-image: url('images/clean\ structure\ dashboard.jpeg');
+	background-image: url('./clean\ structure\ dashboard.jpeg');
 }
 
 .mood-tracker {
-	background-image: url('images/team\ structure\ metrics.jpeg');
+	background-image: url('./team\ structure\ metrics.jpeg');
 }
 
 .breathing-tool {
-	background-image: url('images/bank\ account\ payment\ connection.jpeg');
+	background-image: url('./bank\ account\ payment\ connection.jpeg');
 }
 
 .resource-image::before {
